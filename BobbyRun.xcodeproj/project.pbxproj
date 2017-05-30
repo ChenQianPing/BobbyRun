@@ -14,6 +14,28 @@
 		34D71ACC1D05A79A00F73871 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ACA1D05A79A00F73871 /* Main.storyboard */; };
 		34D71ACE1D05A79A00F73871 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ACD1D05A79A00F73871 /* Assets.xcassets */; };
 		34D71AD11D05A79A00F73871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ACF1D05A79A00F73871 /* LaunchScreen.storyboard */; };
+		34D71AD91D05A82100F73871 /* ReadMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71AD81D05A82100F73871 /* ReadMe.swift */; };
+		34D71ADB1D05A98600F73871 /* Bobby.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71ADA1D05A98600F73871 /* Bobby.swift */; };
+		34D71AE11D05AC4B00F73871 /* jump.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ADD1D05AC4B00F73871 /* jump.atlas */; };
+		34D71AE21D05AC4B00F73871 /* jump_effect.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ADE1D05AC4B00F73871 /* jump_effect.atlas */; };
+		34D71AE31D05AC4B00F73871 /* roll.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 34D71ADF1D05AC4B00F73871 /* roll.atlas */; };
+		34D71AE41D05AC4B00F73871 /* run.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AE01D05AC4B00F73871 /* run.atlas */; };
+		34D71AE81D05AC5500F73871 /* background_f0.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AE61D05AC5500F73871 /* background_f0.png */; };
+		34D71AE91D05AC5500F73871 /* background_f1.png in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AE71D05AC5500F73871 /* background_f1.png */; };
+		34D71AEC1D05ACA900F73871 /* apple.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AEB1D05ACA900F73871 /* apple.mp3 */; };
+		34D71AEE1D05ACAF00F73871 /* background.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AED1D05ACAF00F73871 /* background.mp3 */; };
+		34D71AF01D05ACBA00F73871 /* fly.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AEF1D05ACBA00F73871 /* fly.mp3 */; };
+		34D71AF21D05ACC000F73871 /* hit_platform.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AF11D05ACC000F73871 /* hit_platform.mp3 */; };
+		34D71AF41D05ACC600F73871 /* hit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AF31D05ACC600F73871 /* hit.mp3 */; };
+		34D71AF61D05ACCD00F73871 /* jump_from_platform.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AF51D05ACCD00F73871 /* jump_from_platform.mp3 */; };
+		34D71AF81D05ACD300F73871 /* lose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71AF71D05ACD300F73871 /* lose.mp3 */; };
+		34D71AFA1D05B66800F73871 /* Platform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71AF91D05B66800F73871 /* Platform.swift */; };
+		34D71AFC1D05B75500F73871 /* PlatformFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71AFB1D05B75500F73871 /* PlatformFactory.swift */; };
+		34D71AFE1D05C04B00F73871 /* BackGround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71AFD1D05C04B00F73871 /* BackGround.swift */; };
+		34D71B001D06F64D00F73871 /* BitMaskType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71AFF1D06F64D00F73871 /* BitMaskType.swift */; };
+		34D71B041D0701F200F73871 /* SoundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71B031D0701F200F73871 /* SoundManager.swift */; };
+		34D71B061D07026100F73871 /* AppleFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D71B051D07026100F73871 /* AppleFactory.swift */; };
+		34D71B0B1D071F2300F73871 /* do-re-mi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 34D71B0A1D071F2300F73871 /* do-re-mi.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +48,28 @@
 		34D71ACD1D05A79A00F73871 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34D71AD01D05A79A00F73871 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34D71AD21D05A79A00F73871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34D71AD81D05A82100F73871 /* ReadMe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadMe.swift; sourceTree = "<group>"; };
+		34D71ADA1D05A98600F73871 /* Bobby.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bobby.swift; sourceTree = "<group>"; };
+		34D71ADD1D05AC4B00F73871 /* jump.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = jump.atlas; sourceTree = "<group>"; };
+		34D71ADE1D05AC4B00F73871 /* jump_effect.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = jump_effect.atlas; sourceTree = "<group>"; };
+		34D71ADF1D05AC4B00F73871 /* roll.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = roll.atlas; sourceTree = "<group>"; };
+		34D71AE01D05AC4B00F73871 /* run.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = run.atlas; sourceTree = "<group>"; };
+		34D71AE61D05AC5500F73871 /* background_f0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_f0.png; sourceTree = "<group>"; };
+		34D71AE71D05AC5500F73871 /* background_f1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_f1.png; sourceTree = "<group>"; };
+		34D71AEB1D05ACA900F73871 /* apple.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = apple.mp3; sourceTree = "<group>"; };
+		34D71AED1D05ACAF00F73871 /* background.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background.mp3; sourceTree = "<group>"; };
+		34D71AEF1D05ACBA00F73871 /* fly.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fly.mp3; sourceTree = "<group>"; };
+		34D71AF11D05ACC000F73871 /* hit_platform.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hit_platform.mp3; sourceTree = "<group>"; };
+		34D71AF31D05ACC600F73871 /* hit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hit.mp3; sourceTree = "<group>"; };
+		34D71AF51D05ACCD00F73871 /* jump_from_platform.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jump_from_platform.mp3; sourceTree = "<group>"; };
+		34D71AF71D05ACD300F73871 /* lose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lose.mp3; sourceTree = "<group>"; };
+		34D71AF91D05B66800F73871 /* Platform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Platform.swift; sourceTree = "<group>"; };
+		34D71AFB1D05B75500F73871 /* PlatformFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlatformFactory.swift; sourceTree = "<group>"; };
+		34D71AFD1D05C04B00F73871 /* BackGround.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackGround.swift; sourceTree = "<group>"; };
+		34D71AFF1D06F64D00F73871 /* BitMaskType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BitMaskType.swift; sourceTree = "<group>"; };
+		34D71B031D0701F200F73871 /* SoundManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundManager.swift; sourceTree = "<group>"; };
+		34D71B051D07026100F73871 /* AppleFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppleFactory.swift; sourceTree = "<group>"; };
+		34D71B0A1D071F2300F73871 /* do-re-mi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "do-re-mi.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,16 +102,71 @@
 		34D71AC11D05A79A00F73871 /* BobbyRun */ = {
 			isa = PBXGroup;
 			children = (
-				34D71AC21D05A79A00F73871 /* AppDelegate.swift */,
-				34D71AC41D05A79A00F73871 /* GameScene.sks */,
+				34D71B071D0703E900F73871 /* Other */,
+				34D71AEA1D05AC8500F73871 /* sound */,
+				34D71AE51D05AC5500F73871 /* background */,
+				34D71ADC1D05AC4B00F73871 /* atlas */,
+				34D71B051D07026100F73871 /* AppleFactory.swift */,
+				34D71ADA1D05A98600F73871 /* Bobby.swift */,
 				34D71AC61D05A79A00F73871 /* GameScene.swift */,
-				34D71AC81D05A79A00F73871 /* GameViewController.swift */,
-				34D71ACA1D05A79A00F73871 /* Main.storyboard */,
-				34D71ACD1D05A79A00F73871 /* Assets.xcassets */,
-				34D71ACF1D05A79A00F73871 /* LaunchScreen.storyboard */,
-				34D71AD21D05A79A00F73871 /* Info.plist */,
+				34D71AF91D05B66800F73871 /* Platform.swift */,
+				34D71AFB1D05B75500F73871 /* PlatformFactory.swift */,
+				34D71AFD1D05C04B00F73871 /* BackGround.swift */,
+				34D71AFF1D06F64D00F73871 /* BitMaskType.swift */,
+				34D71B031D0701F200F73871 /* SoundManager.swift */,
 			);
 			path = BobbyRun;
+			sourceTree = "<group>";
+		};
+		34D71ADC1D05AC4B00F73871 /* atlas */ = {
+			isa = PBXGroup;
+			children = (
+				34D71ADD1D05AC4B00F73871 /* jump.atlas */,
+				34D71ADE1D05AC4B00F73871 /* jump_effect.atlas */,
+				34D71ADF1D05AC4B00F73871 /* roll.atlas */,
+				34D71AE01D05AC4B00F73871 /* run.atlas */,
+			);
+			path = atlas;
+			sourceTree = "<group>";
+		};
+		34D71AE51D05AC5500F73871 /* background */ = {
+			isa = PBXGroup;
+			children = (
+				34D71AE61D05AC5500F73871 /* background_f0.png */,
+				34D71AE71D05AC5500F73871 /* background_f1.png */,
+			);
+			name = background;
+			path = atlas/background;
+			sourceTree = "<group>";
+		};
+		34D71AEA1D05AC8500F73871 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				34D71B0A1D071F2300F73871 /* do-re-mi.mp3 */,
+				34D71AED1D05ACAF00F73871 /* background.mp3 */,
+				34D71AEB1D05ACA900F73871 /* apple.mp3 */,
+				34D71AEF1D05ACBA00F73871 /* fly.mp3 */,
+				34D71AF11D05ACC000F73871 /* hit_platform.mp3 */,
+				34D71AF31D05ACC600F73871 /* hit.mp3 */,
+				34D71AF51D05ACCD00F73871 /* jump_from_platform.mp3 */,
+				34D71AF71D05ACD300F73871 /* lose.mp3 */,
+			);
+			name = sound;
+			sourceTree = "<group>";
+		};
+		34D71B071D0703E900F73871 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				34D71AC81D05A79A00F73871 /* GameViewController.swift */,
+				34D71AC21D05A79A00F73871 /* AppDelegate.swift */,
+				34D71AC41D05A79A00F73871 /* GameScene.sks */,
+				34D71ACA1D05A79A00F73871 /* Main.storyboard */,
+				34D71ACD1D05A79A00F73871 /* Assets.xcassets */,
+				34D71AD21D05A79A00F73871 /* Info.plist */,
+				34D71ACF1D05A79A00F73871 /* LaunchScreen.storyboard */,
+				34D71AD81D05A82100F73871 /* ReadMe.swift */,
+			);
+			name = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -97,11 +196,14 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0720;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = ChenQianPing;
 				TargetAttributes = {
 					34D71ABE1D05A79A00F73871 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = GV3E426MWC;
+						LastSwiftMigration = 0820;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -129,9 +231,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				34D71AC51D05A79A00F73871 /* GameScene.sks in Resources */,
+				34D71AE41D05AC4B00F73871 /* run.atlas in Resources */,
 				34D71AD11D05A79A00F73871 /* LaunchScreen.storyboard in Resources */,
+				34D71AE81D05AC5500F73871 /* background_f0.png in Resources */,
+				34D71AEE1D05ACAF00F73871 /* background.mp3 in Resources */,
+				34D71AE91D05AC5500F73871 /* background_f1.png in Resources */,
+				34D71AE21D05AC4B00F73871 /* jump_effect.atlas in Resources */,
+				34D71AF61D05ACCD00F73871 /* jump_from_platform.mp3 in Resources */,
 				34D71ACE1D05A79A00F73871 /* Assets.xcassets in Resources */,
 				34D71ACC1D05A79A00F73871 /* Main.storyboard in Resources */,
+				34D71B0B1D071F2300F73871 /* do-re-mi.mp3 in Resources */,
+				34D71AF41D05ACC600F73871 /* hit.mp3 in Resources */,
+				34D71AEC1D05ACA900F73871 /* apple.mp3 in Resources */,
+				34D71AF01D05ACBA00F73871 /* fly.mp3 in Resources */,
+				34D71AF21D05ACC000F73871 /* hit_platform.mp3 in Resources */,
+				34D71AE31D05AC4B00F73871 /* roll.atlas in Resources */,
+				34D71AE11D05AC4B00F73871 /* jump.atlas in Resources */,
+				34D71AF81D05ACD300F73871 /* lose.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,8 +258,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34D71AFA1D05B66800F73871 /* Platform.swift in Sources */,
 				34D71AC71D05A79A00F73871 /* GameScene.swift in Sources */,
+				34D71AFC1D05B75500F73871 /* PlatformFactory.swift in Sources */,
+				34D71AFE1D05C04B00F73871 /* BackGround.swift in Sources */,
+				34D71ADB1D05A98600F73871 /* Bobby.swift in Sources */,
+				34D71B061D07026100F73871 /* AppleFactory.swift in Sources */,
+				34D71AD91D05A82100F73871 /* ReadMe.swift in Sources */,
 				34D71AC91D05A79A00F73871 /* GameViewController.swift in Sources */,
+				34D71B001D06F64D00F73871 /* BitMaskType.swift in Sources */,
+				34D71B041D0701F200F73871 /* SoundManager.swift in Sources */,
 				34D71AC31D05A79A00F73871 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -183,8 +307,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -227,8 +353,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -247,6 +375,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -255,10 +384,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: QianPing Chen (66U23U4WWM)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = GV3E426MWC;
 				INFOPLIST_FILE = BobbyRun/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenqp.BobbyRun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -266,10 +401,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: QianPing Chen (66U23U4WWM)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = GV3E426MWC;
 				INFOPLIST_FILE = BobbyRun/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenqp.BobbyRun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -292,6 +433,7 @@
 				34D71AD71D05A79A00F73871 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
